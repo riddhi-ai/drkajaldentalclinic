@@ -84,7 +84,7 @@ export default function ClinicHours() {
 
           {/* Configurable Notice Note */}
           <p className="mt-6 text-center text-xs text-slate-400">
-            * Timings can be customized by clinic owner in <code className="text-slate-500 font-mono">clinicConfig.js</code>. Prior appointments are recommended to minimize waiting time.
+            * Timings 10:00 AM To 1:30 PM | 5:30 PM To 9:00 PM <code className="text-slate-500 font-mono">clinicConfig.js</code>. Prior appointments are recommended to minimize waiting time.
           </p>
 
         </div>

@@ -17,9 +17,9 @@ export const clinicConfig = {
     title: "Dental Surgeon & Speciality Dentistry",
     photo: "/images/dr-kajal-treating.webp",
     // Note: Qualifications, experience & awards are editable placeholders pending verification
-    isPlaceholderProfile: true,
-    qualifications: "B.D.S. (Dental Surgeon) [Placeholder - Doctor to confirm degree]",
-    experience: "Practicing Dental Surgeon in Pune [Placeholder - Update years of experience]",
+    isPlaceholderProfile: false,
+    qualifications: "B.D.S. (Dental Surgeon) ",
+    experience: "Practicing Dental Surgeon in Pune",
     specializations: [
       "Speciality Dentistry",
       "Restorative & Preventive Care",

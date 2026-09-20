@@ -1,0 +1,58 @@
+
+================================================================================
+DATE: 2026-09-16T10:59:42.888Z
+TO: doctor@example.com
+SUBJECT: New Appointment Request – Dr. Kajal's Dental Clinic
+--------------------------------------------------------------------------------
+
+NEW APPOINTMENT REQUEST
+
+Patient Details:
+Name: Pooja Deshmukh
+Phone: +91 9822012345
+Email: pooja.deshmukh@example.com
+Age: 29
+
+Appointment Details:
+Service: Root Canal Treatment (RCT)
+Preferred Date: 2026-09-19
+Preferred Time: 06:00 PM - 06:30 PM
+
+Patient Message:
+Experiencing mild sensitivity on lower molar for past 3 days.
+
+Submitted At:
+16/9/2026, 4:29:42 pm (IST)
+
+--------------------------------------------------
+Please contact the patient to confirm the appointment.
+--------------------------------------------------
+Appointment Reference ID: APT-MU3ZNYBO-4951
+
+================================================================================
+
+
+================================================================================
+DATE: 2026-09-16T10:59:42.889Z
+TO: pooja.deshmukh@example.com
+SUBJECT: Appointment Request Received – Dr. Kajal's Dental Clinic
+--------------------------------------------------------------------------------
+Hello Pooja Deshmukh,
+
+Thank you for contacting Dr. Kajal's Dental Clinic.
+
+We have received your appointment request for:
+
+Service: Root Canal Treatment (RCT)
+Preferred Date: 2026-09-19
+Preferred Time: 06:00 PM - 06:30 PM
+
+The clinic will contact you to confirm your appointment.
+
+Regards,
+Dr. Kajal's Dental Clinic
+Ashish Garden, DP Rd, Sagar Colony, Guruganesh Nagar, Kothrud, Pune, Maharashtra 411038
+Phone: 088306 87816
+
+================================================================================
+

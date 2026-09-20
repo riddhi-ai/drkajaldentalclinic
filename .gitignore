@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+
+# Private clinic data
+data/appointments.json
+data/outbox_emails.log
